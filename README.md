@@ -13,7 +13,7 @@ Slowly increase and decrease both motors' speed. Both motors should take actions
 5. (10%) Stop both motors.
 > **Hint**:
 > - you may want to refer to the `fade_in_fade_out.py` from your second assignment.
-> - No loop is needed.
+> - No while loop is needed.
 
 ### (50%) Estimate Motor Speed
 Make marks on both wheels at same spot before you start the testing [script](/estimate_speed.py). Run testing script and observe the motors behaviors carefully.

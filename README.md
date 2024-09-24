@@ -21,10 +21,14 @@ Make marks on both wheels at same spot before you start the testing [script](/es
 > **Hint**: No loop is needed.
 2. (30%) Observe the motor's behavior carefully and answer the questions below.
    1. (20%) Can you estimate the speed of each motor using "revolutions per minute (RPM)"? Please round the RPM to **one decimal place**. 
-      > Your answer here.
+      > Motor 1 -> 2.0 RPM
+      > Motor 2 -> 2.1 RPM
    2. (10%) What would be the reasons if the speeds of the motors were different? 
-      > Your answer here.
-3. (10%) Upload images to show final location of the marks on each wheel. 
+      > Not every motor is manufactured perfectly identical so there could be slight differences in the motor. Both motors could also be getting slightly different voltages from the circuit so this could         affect each motor slightly
+3. (10%) Upload images to show final location of the marks on each wheel.
+![Alt text](IMG_7472.jpg)
+
+   
    
 ## AI Usage Policy
 Please give credits to your AI assistance. Refer to the [syllabus](https://linzhanguca.github.io/_docs/robotics1-2024/syllabus.pdf) for the citation format.

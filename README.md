@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/9apGZMRE)
 # Motor Test
 In this assignment, you'll test the Pico board, the motor driver board and the DC motors.
   
@@ -12,7 +13,7 @@ Slowly increase and decrease both motors' speed. Both motors should take actions
 5. (10%) Stop both motors.
 > **Hint**:
 > - you may want to refer to the `fade_in_fade_out.py` from your second assignment.
-> - No loop is needed.
+> - No while loop is needed.
 
 ### (50%) Estimate Motor Speed
 Make marks on both wheels at same spot before you start the testing [script](/estimate_speed.py). Run testing script and observe the motors behaviors carefully.
@@ -20,10 +21,14 @@ Make marks on both wheels at same spot before you start the testing [script](/es
 > **Hint**: No loop is needed.
 2. (30%) Observe the motor's behavior carefully and answer the questions below.
    1. (20%) Can you estimate the speed of each motor using "revolutions per minute (RPM)"? Please round the RPM to **one decimal place**. 
-      > Your answer here.
+      > Motor 1 -> 120 Revolutions per minute
+      > Motor 2 -> 125 Revolutions per minute
    2. (10%) What would be the reasons if the speeds of the motors were different? 
-      > Your answer here.
-3. (10%) Upload images to show final location of the marks on each wheel. 
+      > Not every motor is manufactured perfectly identical so there could be slight differences in the motor. Both motors could also be getting slightly different voltages from the circuit so this could         affect each motor slightly
+3. (10%) Upload images to show final location of the marks on each wheel.
+![Alt text](IMG_7472.jpg)
+
+   
    
 ## AI Usage Policy
 Please give credits to your AI assistance. Refer to the [syllabus](https://linzhanguca.github.io/_docs/robotics1-2024/syllabus.pdf) for the citation format.
